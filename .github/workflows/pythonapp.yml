@@ -10,7 +10,7 @@ jobs:
     steps:
     - uses: actions/checkout@vmaster
     - name: Sync fork
-    - uses: TG908/fork-sync@v1.1
+      uses: TG908/fork-sync@v1.1
       with:
         github_token: ${{ secrets.repo_token }}
         owner: nightwatch92
