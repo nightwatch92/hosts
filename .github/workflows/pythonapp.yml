@@ -12,7 +12,7 @@ jobs:
       uses: TG908/fork-sync@v1.1
       with:
         github_token: ${{ secrets.repo_token }}
-        owner: nightwatch92
+        owner: StevenBlack
         base: master
         head: master 
     - name: Set up Python 3.8
