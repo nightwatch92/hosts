@@ -1,4 +1,4 @@
-name: Python application
+name: Adding zones to DNS
 
 on: [push]
 
@@ -9,10 +9,18 @@ jobs:
 
     steps:
     - uses: actions/checkout@v1
+    - name: Sync fork
+    - uses: TG908/fork-sync@v1.1
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        owner: nightwatch92
+        base: master
+        head: master 
     - name: Set up Python 3.8
       uses: actions/setup-python@v1
       with:
         python-version: 3.8
     - name: Install dependencies
       run: |
-        python --version
+        python -m pip install --upgrade pip
+	pip install -r scripts/requirements.txt
