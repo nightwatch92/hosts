@@ -765,7 +765,6 @@
 0.0.0.0 iplogger.ru
 0.0.0.0 www.iplogger.ru
 0.0.0.0 www.ipuss.tv
-0.0.0.0 analytics.jabong.com
 0.0.0.0 jackbootedroom.com
 0.0.0.0 www.jackbootedroom.com
 0.0.0.0 joinmy.site
@@ -803,7 +802,6 @@
 0.0.0.0 hbbtv.mediaset.net
 0.0.0.0 browser.pipe.aria.microsoft.com
 0.0.0.0 mobile.pipe.aria.microsoft.com
-0.0.0.0 v10.events.data.microsoft.com
 0.0.0.0 v10c.events.data.microsoft.com
 0.0.0.0 web.vortex.data.microsoft.com
 0.0.0.0 sqm.telemetry.microsoft.com
@@ -833,7 +831,6 @@
 0.0.0.0 www.ccc.sys.miui.com
 0.0.0.0 geofence.sys.miui.com
 0.0.0.0 www.geofence.sys.miui.com
-0.0.0.0 tracking.miui.com
 0.0.0.0 fcanr.tracking.miui.com
 0.0.0.0 www.fcanr.tracking.miui.com
 0.0.0.0 www.tracking.miui.com
@@ -846,7 +843,6 @@
 0.0.0.0 in-gmtdmp.mookie1.com
 0.0.0.0 market.moonicorn.network
 0.0.0.0 analytics.mopub.com
-0.0.0.0 incoming.telemetry.mozilla.org
 0.0.0.0 nativesdks.mparticle.com
 0.0.0.0 cdn.mxpnl.com
 0.0.0.0 www.ads.mp.mydas.mobi
@@ -954,7 +950,6 @@
 0.0.0.0 mt.rtmark.net
 0.0.0.0 my.rtmark.net
 0.0.0.0 token.rubiconproject.com
-0.0.0.0 analytics.samdd.me
 0.0.0.0 ads.samsungads.com
 0.0.0.0 udm.scorecardresearch.com
 0.0.0.0 cdn-settings.segment.com
@@ -974,7 +969,6 @@
 0.0.0.0 lead.soperson.com
 0.0.0.0 www.soperson.com
 0.0.0.0 yun-static.soperson.com
-0.0.0.0 spiegel-de.spiegel.de
 0.0.0.0 sportsinteraction.com
 0.0.0.0 www.sportsinteraction.com
 0.0.0.0 spottyfly.com
@@ -1172,3 +1166,42 @@
 0.0.0.0 mackeeperapp.zeobit.com
 0.0.0.0 www.mackeeperapp.zeobit.com
 0.0.0.0 in8.zog.link
+
+# added February 21, 2020
+0.0.0.0 akashdayalgroups.com
+0.0.0.0 www.akashdayalgroups.com
+0.0.0.0 cloud-based-service.us-south.cf.appdomain.cloud
+
+# added March 2, 2020
+0.0.0.0 websitecompany.org
+0.0.0.0 www.websitecompany.org
+
+# added March 5, 2020
+0.0.0.0 thebestgame2020.com
+0.0.0.0 hdnewporn.com
+
+# added March 10, 2020
+0.0.0.0 playamo30.com
+0.0.0.0 www.playamo30.com
+
+# added March 24, 2020
+0.0.0.0 daunteegyptian.pro
+
+# added March 29, 2020
+0.0.0.0 march262020.best
+0.0.0.0 march262020.com
+
+# added March 31, 2020
+0.0.0.0 yfleur.myftp.org
+0.0.0.0 dynamics.ddnsking.com
+0.0.0.0 accountsx.bounceme.net
+0.0.0.0 vvavesltd.servebeer.com
+0.0.0.0 capitana.onthewifi.com
+0.0.0.0 kulkarni.bounceme.net
+0.0.0.0 thestar.serveblog.net
+0.0.0.0 invoke.ml
+
+# Added April 1, 2020
+0.0.0.0 www.webhaat.com
+0.0.0.0 www.saumweb.com
+0.0.0.0 www.bywebsite.com

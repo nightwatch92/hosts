@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 12 Feb 2020 at 08:52:06 GMT
+# Last updated: Mon, 30 Mar 2020 at 07:26:50 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -976,7 +976,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 imprammp.taboola.com
 0.0.0.0 impse.tradedoubler.com
 0.0.0.0 impsnare.iesnare.com
-0.0.0.0 in.appcenter.ms
 0.0.0.0 inkscape.fr
 0.0.0.0 in.paycounter.com
 0.0.0.0 insightfirst.com
@@ -2215,6 +2214,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 badmactogoodmac.space
 0.0.0.0 badmactogoodmac.tech
 0.0.0.0 beloysoff.ru
+0.0.0.0 benefitsorganic.com
 0.0.0.0 bestreview.site
 0.0.0.0 bgl1dr1-a-fixed.sancharnet.in
 0.0.0.0 bgl1pp1-a-fixed.sancharnet.in
@@ -2369,6 +2369,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 filter.mediacpc.com
 0.0.0.0 firefox.net-secure-update.icu
 0.0.0.0 firefox-updater.com
+0.0.0.0 fndsdaytings.com
 0.0.0.0 fr.apple.com-services-assistance-recuperations-des-comptes.com
 0.0.0.0 freecontent.bid
 0.0.0.0 freedailydownload.com
@@ -2891,6 +2892,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 tiku.io
 0.0.0.0 tipsforall.xyz
 0.0.0.0 tivvitter.com
+0.0.0.0 toknowall.com
 0.0.0.0 tomorrownewstoday.com	# I'm not sure what it does, but it seems to be associated with a phishing attempt on Facebook
 0.0.0.0 toolbarbest.biz
 0.0.0.0 toolbarbucks.biz
@@ -2939,6 +2941,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 videoamp.com
 0.0.0.0 videos.dskjkiuw.com
 0.0.0.0 videos.twitter.secure-logins01.com # twitter worm (http://mashable.com/2009/09/23/twitter-worm-dms/)
+0.0.0.0 vip.fortunatetime.xyz
 0.0.0.0 virus-notice.com
 0.0.0.0 voyager1.telesat.com.co
 0.0.0.0 vxiframe.biz
@@ -6862,6 +6865,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 aktiv-hirek.net
 0.0.0.0 al1.sharethis.com
 0.0.0.0 alert.police-patrol-agent.com
+0.0.0.0 a.libertystmedia.com
 0.0.0.0 a.ligatus.com
 0.0.0.0 a.ligatus.de
 0.0.0.0 alliance.adbureau.net
@@ -8001,6 +8005,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 daily-saver.com
 0.0.0.0 damamaty.tk
 0.0.0.0 damavandkuh.com
+0.0.0.0 da.oipzyrzffum.ovh
 0.0.0.0 darakht.com
 0.0.0.0 darmowe-liczniki.info
 0.0.0.0 darmowe-zakupy.com
@@ -8846,6 +8851,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 i.interia.pl
 0.0.0.0 ikcode.baidu.com
 0.0.0.0 i.laih.com
+0.0.0.0 i.libertystmedia.com
 0.0.0.0 ilinks.industrybrains.com
 0.0.0.0 ilovemobi.com
 0.0.0.0 ilumigrafias.adriancugar.com
@@ -9320,7 +9326,9 @@ ff02::3		ip6-allhosts
 0.0.0.0 l.yieldmanager.net
 0.0.0.0 m1.emea.2mdn.net
 0.0.0.0 m1.emea.2mdn.net.edgesuite.net
+0.0.0.0 m1.nsimg.net
 0.0.0.0 m2.media-box.co
+0.0.0.0 m2.nsimg.net
 0.0.0.0 m2.sexgarantie.nl
 0.0.0.0 m3.2mdn.net
 0.0.0.0 m4.afs.googleadservices.com
@@ -11123,6 +11131,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 tag1.webabacus.com
 0.0.0.0 tag.admeld.com
 0.0.0.0 tag.contextweb.com
+0.0.0.0 tag-dyn.omnitagjs.com
 0.0.0.0 tag.regieci.com
 0.0.0.0 tags.bluekai.com
 0.0.0.0 tags.expo9.exponential.com
@@ -11489,6 +11498,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 vattacukor.net
 0.0.0.0 vcdn.adnxs.com
 0.0.0.0 vclick.adbrite.com
+0.0.0.0 vda.oipzyrzffum.ovh
 0.0.0.0 veirregnant.club
 0.0.0.0 vendorlist.consensu.org
 0.0.0.0 venetia.iad.appboy.com
@@ -14687,7 +14697,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 sO.2mdn.net
 0.0.0.0 statsfe2.ws.microsoft.com
 0.0.0.0 telemetry.appex.bing.net
-0.0.0.0 v10.vortex-win.data.microsoft.com
 0.0.0.0 wes.df.telemetry.microsoft.com
 #
 
